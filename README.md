@@ -4,7 +4,7 @@ Gold Token Is An virtual currency based on the Ethereum blockchain on being fast
 ## What is Gold Token
 Gold Token Is An virtual currency based on the Ethereum blockchain on being faster and instant transactions. Gold Token works with the ERC-20 smart contract. That is, it has the same safety and technology as Ethereum.
 
-## Specifications of CrystalTokens
+## Specifications of Gold Token
 * **Name**: Gold Token
 * **Symbol**: GOT
 * **Decimals**: 18
