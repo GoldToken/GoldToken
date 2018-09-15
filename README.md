@@ -12,4 +12,4 @@ Gold Token Is An virtual currency based on the Ethereum blockchain on being fast
 * **Platform**: Ethereum
 * **Contract Address**: 0x5d48b6b4020116b4cd3659d31c20ec422d592caa
 ## Resource
-**[Website](https://goldtoken.site)** | **[Whitepaper](https://goldtoken.site/whitepaper.pdf)** | **[Twitter](https://twitter.com/Goldtoken_team)**  | **[Bitcointalk](https://bitcointalk.org)** | **[Slack](https://goldtoken.slack.com)** | **[Telegram](https://t.me/goldtokens)**
+**[Website](https://goldtoken.site)** | **[Whitepaper](https://goldtoken.site/whitepaper.pdf)** | **[Twitter](https://twitter.com/Goldtoken_team)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=5029202.0)** | **[Slack](https://goldtoken.slack.com)** | **[Telegram](https://t.me/goldtokens)**
